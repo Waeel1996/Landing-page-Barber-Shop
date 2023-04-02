@@ -5,12 +5,13 @@
     color: white;
 }
 
-body {
+.side-color {
     background-color: #292E33;
 }
 
 .nav-button {
     color: white;
+    font-size: 20px;
 }
 
 .border1 {
@@ -33,10 +34,6 @@ body {
 .border3 {
     margin-left: 154px;
     margin-top: -80px;
-}
-
-.nav-bg {
-    color: #292E33;
 }
 
 .krdi {
@@ -67,4 +64,10 @@ body {
     word-wrap: break-word;
     position: relative;
     margin-right: -34px;
+}
+.section-padding{
+    padding: 125.5px 0px;
+}
+.nav-color{
+    color: #DF5E1A;
 }
