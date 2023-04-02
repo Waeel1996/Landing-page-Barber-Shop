@@ -1,44 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
-.home-nav{
+
+.home-nav {
     margin-left: 1100px;
     color: white;
 }
-body{
+
+body {
     background-color: #292E33;
 }
-.nav-button{
+
+.nav-button {
     color: white;
 }
-.border1{
-    box-shadow: 0px 0px 13px 12px rgba(0,0,0,0.2);
+
+.border1 {
+    box-shadow: 0px 0px 13px 12px rgba(0, 0, 0, 0.2);
     border-style: solid;
     border-width: 15px;
     border-color: #DF5E1A;
     padding: 170px 200px;
 }
-.border2{
+
+.border2 {
     margin-left: 80px;
-margin-top: 222px;
-background-color: #DF5E1A;
-width: 560px;
-height: 400px;
-box-sizing: border-box;
+    margin-top: 222px;
+    background-color: #DF5E1A;
+    width: 560px;
+    height: 400px;
+    box-sizing: border-box;
 }
-.border3{
+
+.border3 {
     margin-left: 154px;
     margin-top: -80px;
 }
-.nav-bg{
+
+.nav-bg {
     color: #292E33;
 }
-.krdi{
-    box-shadow: 0px 0px 14px 12px rgba(0,0,0,0.3);
+
+.krdi {
+    box-shadow: 0px 0px 14px 12px rgba(0, 0, 0, 0.3);
     margin-top: -612px;
     margin-left: -145px;
     height: 451px;
-    width:561px;
+    width: 561px;
 }
-.headline{
+
+.headline {
     margin-top: 250px;
     margin-right: -149px;
     font-size: 3.4375rem;
@@ -46,10 +55,12 @@ box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     color: #DF5E1A;
 }
-.border-section{
+
+.border-section {
     margin-left: -75px;
 }
-.p1{
+
+.p1 {
     font-size: 1.25rem;
     color: white;
     font-family: 'Poppins', sans-serif;
