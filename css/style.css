@@ -1,18 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&family=Rubik:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&family=Rubik:ital,wght@1,500&family=Rufina:wght@700&display=swap');
+
 .home-nav {
     margin-left: 723px;
     color: #D5B981;
     font-family: 'prata';
 }
+
 .home-nav:hover {
     color: white;
     transform: scale(1.1);
 }
+
 .home-nav:hover {
     transition: all .2s;
 }
+
 .side-color {
     background-color: black;
 }
@@ -22,13 +28,16 @@
     font-size: 20px;
     font-family: 'prata';
 }
+
 .nav-button:hover {
     color: white;
     transform: scale(1.1);
 }
+
 .nav-button {
     transition: all .2s;
 }
+
 .border1 {
     box-shadow: 0px 0px 13px 12px rgba(0, 0, 0, 0.2);
     border-style: solid;
@@ -81,48 +90,56 @@
     position: relative;
     margin-right: -34px;
 }
-.section-padding{
+
+.section-padding {
     padding: 125.5px 0px;
 }
-.nav-color{
+
+.nav-color {
     color: #D5B981;
 }
-.logo{
+
+.logo {
     border: none;
     margin-right: 15px;
     height: 60px;
     width: 60px;
 }
-.title-first-section{
+
+.title-first-section {
     font-family: 'prata';
     font-size: 55px;
     font-weight: 400px;
     margin-top: -843px;
     color: #FFFFFF;
 }
-.img-section{
+
+.img-section {
     padding-top: 60px;
 }
-.p1{
+
+.p1 {
     font-family: 'prata';
     font-size: 18px;
     font-weight: 300px;
     color: #FFFFFF;
 }
-.call-button{
+
+.call-button {
     font-family: 'prata';
     font-size: 18px;
     font-weight: 400;
     text-align: center;
     text-decoration: none;
     color: white;
-    background-color: rgb(57,57,57);
+    background-color: rgb(57, 57, 57);
     border-style: solid;
     padding: 15px 45px;
     border-width: 0.2px;
     margin-left: -28px
 }
-.about-button{
+
+.about-button {
     font-family: 'prata';
     font-size: 18px;
     font-weight: 500;
@@ -135,24 +152,68 @@
     border-width: 0.2px;
 
 }
+
 .about-button:hover {
     border-color: #D5B981;
-    border-width: 0,5px;
+    border-width: 0, 5px;
     background-color: #000000;
     color: #D5B981;
-    
+
 }
+
 .call-button:hover {
     border-color: white;
     border-width: 1px;
     background-color: #000000;
 }
+
 .call-button {
     transition: all .6s;
 }
+
 .about-button {
     transition: all .6s;
 }
-.svg1{
+
+.svg1 {
     margin-right: 18px;
+}
+
+.services {
+    font-family: 'Bilbo Swash Caps';
+    font-size: 24px;
+    font-weight: 400px;
+    color: #D5B981;
+}
+
+.container3 {
+    padding: 300px 0px;
+}
+
+.Popular-Services {
+    font-family: 'Rufina';
+    font-size: 34px;
+    font-weight: 400px;
+    color: white;
+}
+
+.p3 {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400px;
+    color: white;
+    color: #AFAFAF;
+}
+
+.all-services-button {
+    font-size: 16px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    text-decoration: none;
+    border-color: #D5B981;
+    margin-left: 70px;
+    text-align: center;
+    padding: 1.2em 3em;
 }
