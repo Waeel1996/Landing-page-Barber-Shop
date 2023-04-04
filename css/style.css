@@ -2,33 +2,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500&display=swap');
 .home-nav {
-    margin-left: 700px;
+    margin-left: 723px;
     color: #D5B981;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'prata';
 }
-
+.home-nav:hover {
+    color: white;
+    transform: scale(1.1);
+}
+.home-nav:hover {
+    transition: all .2s;
+}
 .side-color {
-    background-color: #292E33;
+    background-color: black;
 }
 
 .nav-button {
     color: #D5B981;
     font-size: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'prata';
 }
-
+.nav-button:hover {
+    color: white;
+    transform: scale(1.1);
+}
+.nav-button {
+    transition: all .2s;
+}
 .border1 {
     box-shadow: 0px 0px 13px 12px rgba(0, 0, 0, 0.2);
     border-style: solid;
     border-width: 15px;
-    border-color: #DF5E1A;
+    border-color: #D5B981;
     padding: 170px 200px;
 }
 
 .border2 {
     margin-left: 80px;
     margin-top: 222px;
-    background-color: #DF5E1A;
+    background-color: #D5B981;
     width: 560px;
     height: 400px;
     box-sizing: border-box;
@@ -53,8 +65,8 @@
     margin-right: -149px;
     font-size: 3.4375rem;
     font-weight: 700;
-    font-family: 'Poppins', sans-serif;
-    color: #DF5E1A;
+    font-family: 'prata';
+    color: #D5B981;
 }
 
 .border-section {
@@ -64,7 +76,7 @@
 .p2 {
     font-size: 1.25rem;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'prata';
     word-wrap: break-word;
     position: relative;
     margin-right: -34px;
@@ -73,7 +85,7 @@
     padding: 125.5px 0px;
 }
 .nav-color{
-    color: #DF5E1A;
+    color: #D5B981;
 }
 .logo{
     border: none;
@@ -113,7 +125,7 @@
 .about-button{
     font-family: 'prata';
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 500;
     text-align: center;
     text-decoration: none;
     color: white;
