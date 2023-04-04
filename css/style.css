@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500&display=swap');
 .home-nav {
-    margin-left: 1100px;
-    color: white;
+    margin-left: 700px;
+    color: #D5B981;
+    font-family: 'Poppins', sans-serif;
 }
 
 .side-color {
@@ -10,8 +12,9 @@
 }
 
 .nav-button {
-    color: white;
+    color: #D5B981;
     font-size: 20px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .border1 {
@@ -42,6 +45,7 @@
     margin-left: -145px;
     height: 451px;
     width: 561px;
+    filter: blur(2px);
 }
 
 .headline {
@@ -57,7 +61,7 @@
     margin-left: -75px;
 }
 
-.p1 {
+.p2 {
     font-size: 1.25rem;
     color: white;
     font-family: 'Poppins', sans-serif;
@@ -70,4 +74,73 @@
 }
 .nav-color{
     color: #DF5E1A;
+}
+.logo{
+    border: none;
+    margin-right: 15px;
+    height: 60px;
+    width: 60px;
+}
+.title-first-section{
+    font-family: 'prata';
+    font-size: 55px;
+    font-weight: 400px;
+    margin-top: -843px;
+    color: #FFFFFF;
+}
+.img-section{
+    padding-top: 60px;
+}
+.p1{
+    font-family: 'prata';
+    font-size: 16px;
+    font-weight: 300px;
+    color: #FFFFFF;
+}
+.call-button{
+    font-family: 'prata';
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(57,57,57);
+    border-style: solid;
+    padding: 15px 45px;
+    border-width: 0.2px;
+    margin-left: -28px
+}
+.about-button{
+    font-family: 'prata';
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    padding: 15px 45px;
+    background-color: #D5B981;
+    border-width: 0.2px;
+
+}
+.about-button:hover {
+    border-color: #D5B981;
+    border-width: 0,5px;
+    background-color: #000000;
+    color: #D5B981;
+    
+}
+.call-button:hover {
+    border-color: white;
+    border-width: 1px;
+    background-color: #000000;
+}
+.call-button {
+    transition: all .5s;
+}
+.about-button {
+    transition: all .5s;
+}
+.svg1{
+    margin-right: 18px;
 }
