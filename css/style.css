@@ -105,7 +105,7 @@
 }
 .p1{
     font-family: 'prata';
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 300px;
     color: #FFFFFF;
 }
@@ -148,10 +148,10 @@
     background-color: #000000;
 }
 .call-button {
-    transition: all .5s;
+    transition: all .6s;
 }
 .about-button {
-    transition: all .5s;
+    transition: all .6s;
 }
 .svg1{
     margin-right: 18px;
