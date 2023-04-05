@@ -142,10 +142,10 @@
 .about-button {
     font-family: 'prata';
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 600;
     text-align: center;
     text-decoration: none;
-    color: white;
+    color: black;
     border-style: solid;
     padding: 15px 45px;
     background-color: #D5B981;
