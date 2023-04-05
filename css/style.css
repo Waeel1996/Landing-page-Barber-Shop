@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&family=Rubik:ital,wght@1,500&family=Rufina:wght@700&display=swap');
 
 .home-nav {
-    margin-left: 723px;
+    margin-left: 674px;
     color: #D5B981;
     font-family: 'prata';
 }
@@ -25,8 +25,8 @@
 
 .nav-button {
     color: #D5B981;
-    font-size: 20px;
-    font-family: 'prata';
+    font-size: 30px;
+    font-family: 'Bilbo Swash Caps';
 }
 
 .nav-button:hover {
@@ -181,7 +181,7 @@
 
 .services {
     font-family: 'Bilbo Swash Caps';
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 400px;
     color: #D5B981;
 }
