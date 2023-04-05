@@ -6,5 +6,5 @@ Simple page using html, css, bootstrap5 and js.
 Live Demo : https://waeel1996.github.io/Landing-page-Barber-Shop/
 
 ### page screenshot 
-![image](https://user-images.githubusercontent.com/124203059/229670604-7e10cf8f-e356-4c20-9d4f-bfd92a143952.png)
+![image](https://user-images.githubusercontent.com/124203059/229951433-c4f78c37-4491-459b-a671-f419d4ebffdf.png)
 
