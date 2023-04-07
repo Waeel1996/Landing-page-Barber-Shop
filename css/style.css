@@ -267,3 +267,25 @@
 .card3{
     transition: 0.8s;
 }
+.sec-4-bg{
+    padding: 200px 0px 200px 0px;
+}
+.love-us{
+    font-family: 'Bilbo Swash Caps';
+    font-size: 30px;
+    font-weight: 400px;
+    color: #D5B981;
+}
+.About-Us{
+    margin-top: 5px;
+    font-family: 'Rufina';
+    font-size: 34px;
+    font-weight: 400px;
+    color: white;
+}
+.number{
+    font-family: 'Rufina';
+    font-size: 34px;
+    font-weight: 400px;
+    color: #D5B981;
+}
