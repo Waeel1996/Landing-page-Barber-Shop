@@ -289,3 +289,20 @@
     font-weight: 400px;
     color: #D5B981;
 }
+.card1-4{
+    padding: 35px 10px 50px 40px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #808080;
+}
+.best-barber{
+    padding: 30px 0px 10px 0px;
+    font-family: 'Rufina';
+    font-size: 18px;
+    font-weight: 400px;
+    color: white;
+}
+.Hot-oils{
+    font-size: 14px;
+    color: #808080;
+}
