@@ -289,8 +289,8 @@
     font-weight: 400px;
     color: #D5B981;
 }
-.card1-4{
-    padding: 35px 10px 50px 40px;
+.card-4{
+    padding: 35px 10px 70px 40px;
     border-style: solid;
     border-width: 1.5px;
     border-color: #808080;
@@ -303,6 +303,28 @@
     color: white;
 }
 .Hot-oils{
-    font-size: 14px;
+    font-size: 16px;
     color: #808080;
+}
+.cards:hover {
+    margin-top: -20px;
+}
+.cards {
+    transition: all 0.5s;
+}
+.card-4:hover{
+    border-color: #D5B981;
+}
+.card-4{
+    transition: all .3s;
+}
+.sec-4-bg{
+    padding-bottom: 150px;
+}
+.Happy-barber{
+    font-family: 'Rufina';
+    font-size: 19px;
+    font-weight: 600px;
+    color: #AFAFAF;
+    margin-top: -5px;
 }
